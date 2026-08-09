@@ -15,5 +15,5 @@ Cybersecurity learner with certifications from IBM, Fortinet, and Linux Foundati
 
 ## 🔗 Connect
 
-- Credly Profile: [View all badges](https://www.credly.com/users/arusham-tahir)
+- Credly Profile: [View 26+ verified skill badges](https://www.credly.com/users/arusham-tahir)
 - Microsoft Learn: [View transcript](https://learn.microsoft.com/en-us/users/arusham-tahir-5871/transcript/7k1wni8nml05xl3?tab=applied-skills-tab)
