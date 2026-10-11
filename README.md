@@ -3,77 +3,77 @@
 
 <img src="cyberbanner.png" width="100%" alt="Cybersecurity banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Learner;Exploring+Digital+Defense;Learning+%7C+Building+%7C+Improving" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=1800&pause=500&color=00F5FF&center=true&vCenter=true&width=750&lines=%3E+INITIALIZING+CYBERSECURITY+PROFILE...;%3E+HELLO%2C+I'M+ARUSHAM+TAHIR;%3E+LEARN.+BUILD.+SECURE.;%3E+WELCOME+TO+MY+DIGITAL+SPACE." alt="Animated terminal introduction"/>
 
-</div>
-
-<table>
-<tr>
-<td width="25%" valign="top">
-
-<div align="center">
-
-<img src="https://github.com/arusham-tahir.png" width="115" style="border-radius:50%" alt="GitHub profile avatar"/>
-
-# Arusham Tahir
-
-**Cybersecurity Learner**
-
-Pakistan 🇵🇰
+<img src="https://img.shields.io/badge/ACCESS-GRANTED-00F5FF?style=for-the-badge&labelColor=080B16"/>
+<img src="https://img.shields.io/badge/MODE-CYBER_LEARNING-8B5CF6?style=for-the-badge&labelColor=080B16"/>
+<img src="https://img.shields.io/badge/LOCATION-PAKISTAN-00F5FF?style=for-the-badge&labelColor=080B16"/>
 
 </div>
 
 ---
 
-### `NAVIGATION`
-
-- [👤 About Me](#about-me)
-- [🚀 Projects](#featured-projects)
-- [🛡️ Learning](#certifications--learning)
-- [⚙️ Toolkit](#toolkit)
-- [📊 GitHub Stats](#github-analytics)
-- [🔗 Connect](#connect-with-me)
-
----
+<table>
+<tr>
+<td width="28%" valign="top">
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-00E5FF?style=flat-square&labelColor=080D18"/>
+<img src="https://github.com/arusham-tahir.png" width="130" alt="GitHub avatar"/>
+
+# ARUSHAM
+### TAHIR
+
+`CYBERSECURITY LEARNER`
 
 </div>
 
+---
+
+### ◈ QUICK ACCESS
+
+[⌘ GitHub](https://github.com/arusham-tahir)
+
+[◉ LinkedIn](https://www.linkedin.com/in/arusham-tahir-202a54429)
+
+[✉ Contact](mailto:arushamtahir@gmail.com)
+
+---
+
+### ◈ SYSTEM INTERESTS
+
+`CYBERSECURITY`
+
+`NETWORK DEFENSE`
+
+`DIGITAL SAFETY`
+
+`TECHNICAL RESEARCH`
+
+`CONTINUOUS LEARNING`
+
 </td>
+<td width="72%" valign="top">
 
-<td width="75%" valign="top">
+## `// 01` — WHO AM I?
 
-<a id="about-me"></a>
+```text
+USER       : Arusham Tahir
+INTEREST   : Cybersecurity & Digital Defense
+APPROACH   : Learn → Practice → Build
+OBJECTIVE  : Understand security, one step at a time.
+```
 
-## `01` // ABOUT ME
+I'm a student from Pakistan exploring cybersecurity through technical learning, hands-on projects, and structured revision notes.
 
-> Hi! I'm **Arusham Tahir**, a student from Pakistan interested in cybersecurity and digital security.
+I believe the best way to learn is to understand a concept, practice it, and document the journey.
 
-I enjoy exploring technical concepts, documenting what I learn, and building projects that make cybersecurity information easier to access.
+### `// CURRENT MISSION`
 
-<table>
-<tr>
-<td width="50%">
-
-**CURRENT INTERESTS**
-
-- Cybersecurity fundamentals
-- Network security
-- Digital safety awareness
-- Technical learning notes
-
-</td>
-<td width="50%">
-
-**MY APPROACH**
-
-- Learn step by step
-- Practice through projects
-- Document my progress
-- Keep improving my skills
+- Exploring cybersecurity fundamentals
+- Building security awareness projects
+- Learning through Microsoft Learn and other training resources
+- Improving my technical knowledge consistently
 
 </td>
 </tr>
@@ -81,9 +81,7 @@ I enjoy exploring technical concepts, documenting what I learn, and building pro
 
 ---
 
-<a id="featured-projects"></a>
-
-## `02` // FEATURED PROJECTS
+## `// 02` — PROJECT DATABASE
 
 <table>
 <tr>
@@ -91,36 +89,32 @@ I enjoy exploring technical concepts, documenting what I learn, and building pro
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-CYBERTRACEX-00E5FF?style=for-the-badge&labelColor=080D18"/>
+<img src="https://img.shields.io/badge/PROJECT_01-00F5FF?style=for-the-badge&labelColor=080B16"/>
 
-### CyberTraceX
+### 🛡️ CyberTraceX
 
 </div>
 
-A cybersecurity-related project exploring security-focused tools and technical concepts.
+A cybersecurity-related project that reflects my interest in exploring security-focused tools and concepts.
 
-**PROJECT**
-
-[↗ Open CyberTraceX](https://cybertracex.vercel.app/)
+**[↗ LAUNCH PROJECT](https://cybertracex.vercel.app/)**
 
 </td>
 <td width="50%" valign="top">
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/02-CYBERFUNNEL-8B5CF6?style=for-the-badge&labelColor=080D18"/>
+<img src="https://img.shields.io/badge/PROJECT_02-8B5CF6?style=for-the-badge&labelColor=080B16"/>
 
-### CyberFunnel
+### 🌐 CyberFunnel
 
 </div>
 
-A beginner-friendly cybersecurity awareness website covering phone privacy, Wi-Fi safety and core security concepts.
+A beginner-friendly awareness website covering phone privacy, Wi-Fi safety and core cybersecurity concepts.
 
-**PROJECT LINKS**
+**[↗ LIVE WEBSITE](https://arusham-tahir.github.io/cyberfunnel/)**
 
-[↗ Live Website](https://arusham-tahir.github.io/cyberfunnel/)
-
-[↗ Source Code](https://github.com/arusham-tahir/cyberfunnel)
+**[↗ SOURCE CODE](https://github.com/arusham-tahir/cyberfunnel)**
 
 </td>
 </tr>
@@ -129,17 +123,17 @@ A beginner-friendly cybersecurity awareness website covering phone privacy, Wi-F
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/03-CYBERSECURITY_MASTER_LOG-00E5FF?style=for-the-badge&labelColor=080D18"/>
+<img src="https://img.shields.io/badge/PROJECT_03-00F5FF?style=for-the-badge&labelColor=080B16"/>
 
-### CyberSecurity Master Log
+### 📡 CyberSecurity Master Log
 
 </div>
 
-Study logs and structured revision notes for Microsoft SC-900 learning and Fortinet security paths.
+A repository of structured study logs and revision notes for Microsoft SC-900 learning and Fortinet security paths.
 
 <div align="center">
 
-[↗ EXPLORE REPOSITORY](https://github.com/arusham-tahir/CyberSecurity-Master-Log)
+**[↗ OPEN REPOSITORY](https://github.com/arusham-tahir/CyberSecurity-Master-Log)**
 
 </div>
 
@@ -149,9 +143,19 @@ Study logs and structured revision notes for Microsoft SC-900 learning and Forti
 
 ---
 
-<a id="certifications--learning"></a>
+## `// 03` — LEARNING ARCHIVE
 
-## `03` // CERTIFICATIONS & LEARNING
+<div align="center">
+
+<img src="https://img.shields.io/badge/MICROSOFT_LEARN-SECURITY_&_IDENTITY-00F5FF?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=080B16"/>
+
+<img src="https://img.shields.io/badge/IBM-CYBERSECURITY_LEARNING-8B5CF6?style=for-the-badge&logo=ibm&logoColor=white&labelColor=080B16"/>
+
+<img src="https://img.shields.io/badge/FORTINET-SECURITY_LEARNING-00F5FF?style=for-the-badge&logo=fortinet&logoColor=white&labelColor=080B16"/>
+
+<img src="https://img.shields.io/badge/LINUX_FOUNDATION-CYBERSECURITY-8B5CF6?style=for-the-badge&logo=linux&logoColor=white&labelColor=080B16"/>
+
+</div>
 
 <table>
 <tr>
@@ -159,20 +163,18 @@ Study logs and structured revision notes for Microsoft SC-900 learning and Forti
 
 ### Microsoft Learn
 
-Learning in Security, Compliance and Identity through Microsoft Learn modules.
+Security, Compliance and Identity learning modules.
 
-[**View Learning Transcript →**](https://learn.microsoft.com/en-us/users/arusham-tahir-5871/transcript/7k1wni8nml05xl3?tab=applied-skills-tab)
+[**VIEW TRANSCRIPT ↗**](https://learn.microsoft.com/en-us/users/arusham-tahir-5871/transcript/7k1wni8nml05xl3?tab=applied-skills-tab)
 
 </td>
 <td width="50%" valign="top">
 
-### Additional Learning
+### Credential Profile
 
-- IBM cybersecurity learning
-- Fortinet security learning
-- Linux Foundation cybersecurity learning
+View available credentials and badges on Credly.
 
-[**View Credly Profile →**](https://www.credly.com/users/arusham-tahir)
+[**VIEW CREDLY ↗**](https://www.credly.com/users/arusham-tahir)
 
 </td>
 </tr>
@@ -180,9 +182,7 @@ Learning in Security, Compliance and Identity through Microsoft Learn modules.
 
 ---
 
-<a id="toolkit"></a>
-
-## `04` // TOOLKIT
+## `// 04` — TOOLKIT
 
 <div align="center">
 
@@ -192,54 +192,45 @@ Learning in Security, Compliance and Identity through Microsoft Learn modules.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CYBERSECURITY-LEARNING-00E5FF?style=flat-square&labelColor=080D18"/>
-<img src="https://img.shields.io/badge/NETWORK_SECURITY-EXPLORING-8B5CF6?style=flat-square&labelColor=080D18"/>
-<img src="https://img.shields.io/badge/SECURITY_AWARENESS-BUILDING-00E5FF?style=flat-square&labelColor=080D18"/>
+<img src="https://img.shields.io/badge/LEARN-00F5FF?style=flat-square&labelColor=080B16"/>
+<img src="https://img.shields.io/badge/BUILD-8B5CF6?style=flat-square&labelColor=080B16"/>
+<img src="https://img.shields.io/badge/DOCUMENT-00F5FF?style=flat-square&labelColor=080B16"/>
+<img src="https://img.shields.io/badge/IMPROVE-8B5CF6?style=flat-square&labelColor=080B16"/>
+
+</div>
+
+*Icons indicate tools and platforms I use or explore, not expert-level proficiency.*
+
+---
+
+## `// 05` — GITHUB TELEMETRY
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=arusham-tahir&show_icons=true&hide_border=true&bg_color=080B16&title_color=00F5FF&icon_color=8B5CF6&text_color=E2E8F0" alt="GitHub statistics"/>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arusham-tahir&layout=compact&hide_border=true&bg_color=080B16&title_color=00F5FF&text_color=E2E8F0" alt="Top languages"/>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=arusham-tahir&hide_border=true&background=080B16&ring=8B5CF6&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub streak"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arusham-tahir&bg_color=080B16&color=00F5FF&line=8B5CF6&point=FFFFFF&hide_border=true&area=true" alt="Contribution graph"/>
 
 </div>
 
 ---
 
-<a id="github-analytics"></a>
-
-## `05` // GITHUB ANALYTICS
-
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=arusham-tahir&show_icons=true&hide_border=true&bg_color=080D18&title_color=00E5FF&icon_color=8B5CF6&text_color=E2E8F0" alt="GitHub statistics"/>
+## `// CONNECTION ESTABLISHED`
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arusham-tahir&layout=compact&hide_border=true&bg_color=080D18&title_color=00E5FF&text_color=E2E8F0" alt="Top languages"/>
+**Have a look at my projects and learning journey.**
 
-<img width="100%" src="https://streak-stats.demolab.com?user=arusham-tahir&hide_border=true&background=080D18&ring=8B5CF6&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub streak"/>
+[![GitHub](https://img.shields.io/badge/GITHUB-00F5FF?style=for-the-badge&logo=github&logoColor=080B16)](https://github.com/arusham-tahir)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arusham-tahir-202a54429)
+[![Email](https://img.shields.io/badge/EMAIL-00F5FF?style=for-the-badge&logo=gmail&logoColor=080B16)](mailto:arushamtahir@gmail.com)
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arusham-tahir&bg_color=080D18&color=00E5FF&line=8B5CF6&point=FFFFFF&hide_border=true&area=true" alt="GitHub activity graph"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=600&color=00F5FF&center=true&vCenter=true&width=550&lines=END+OF+TRANSMISSION...;THE+LEARNING+NEVER+STOPS." alt="Animated closing message"/>
 
-</div>
-
----
-
-<a id="connect-with-me"></a>
-
-## `06` // CONNECT WITH ME
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GITHUB-REPOSITORIES-080D18?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/arusham-tahir)
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-080D18?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/in/arusham-tahir-202a54429)
-
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT_ME-080D18?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:arushamtahir@gmail.com)
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=550&lines=LEARN+%E2%80%A2+BUILD+%E2%80%A2+IMPROVE;Every+project+is+a+chance+to+learn." alt="Animated footer"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:050816,50:312E81,100:00E5FF" width="100%" alt="Neon footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00F5FF,50:312E81,100:080B16" width="100%" alt="Neon footer"/>
 
 </div>
