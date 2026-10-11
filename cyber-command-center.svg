@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Arusham Tahir — Cybersecurity Command Center</title>
+  <desc id="desc">A dark futuristic interface with cyan grid lines, orbital nodes, and a clear nameplate.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b14"/>
+      <stop offset=".55" stop-color="#0b1424"/>
+      <stop offset="1" stop-color="#11102a"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#54e7ff" stop-opacity="0"/>
+      <stop offset=".48" stop-color="#54e7ff" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#9d8cff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#78c9ed" stroke-opacity=".10" stroke-width="1"/>
+      <circle cx="0" cy="0" r="1.4" fill="#69e8ff" fill-opacity=".45"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="clip"><rect width="1200" height="360" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <path d="M0 278H1200M0 282H1200" stroke="url(#beam)" stroke-width="2"/>
+    <path d="M760 -20L1090 380M835 -20L1165 380M910 -20L1240 380" stroke="#9a8cff" stroke-opacity=".13" stroke-width="1"/>
+    <g fill="none" stroke="#4de4ff" stroke-opacity=".65">
+      <path d="M790 72h120l24 24h110" stroke-width="1.5"/>
+      <path d="M840 100h70l20 20h145" stroke-width="1"/>
+      <path d="M880 136h70l18-18h82" stroke-width="1"/>
+      <path d="M1010 210h100l22-22h68" stroke-width="1.5"/>
+      <path d="M935 236h112l20 20h95" stroke-width="1"/>
+    </g>
+    <g fill="#58e7ff" filter="url(#glow)">
+      <circle cx="910" cy="72" r="3"/><circle cx="944" cy="96" r="3"/>
+      <circle cx="930" cy="120" r="2.5"/><circle cx="1132" cy="188" r="3"/>
+      <circle cx="1067" cy="256" r="2.5"/>
+    </g>
+    <g transform="translate(920 165)" opacity=".9">
+      <circle r="76" fill="none" stroke="#64e8ff" stroke-opacity=".2"/>
+      <circle r="58" fill="none" stroke="#64e8ff" stroke-opacity=".35" stroke-dasharray="4 8"/>
+      <circle r="39" fill="none" stroke="#a48cff" stroke-opacity=".5"/>
+      <path d="M-82 0H82M0-82V82" stroke="#64e8ff" stroke-opacity=".28"/>
+      <path d="M-27-24L0-40 27-24V12L0 29-27 12Z" fill="#07101b" stroke="#61e7ff" stroke-width="1.5"/>
+      <path d="M-13 0l9 9 18-21" fill="none" stroke="#7ef5d0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+    </g>
+    <g font-family="monospace" font-size="11" letter-spacing="2" fill="#7feaff" opacity=".8">
+      <text x="74" y="66">AT // DIGITAL DEFENSE LAB</text>
+      <text x="74" y="316">LEARN  /  BUILD  /  DOCUMENT  /  IMPROVE</text>
+      <text x="1000" y="48">SYS.STATUS: LEARNING</text>
+    </g>
+    <text x="70" y="158" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800" letter-spacing="2" fill="#f3f8ff">ARUSHAM</text>
+    <text x="70" y="222" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800" letter-spacing="2" fill="#f3f8ff">TAHIR<tspan fill="#59e6ff">.</tspan></text>
+    <rect x="73" y="244" width="310" height="3" rx="1.5" fill="url(#beam)"/>
+    <text x="74" y="270" font-family="monospace" font-size="15" letter-spacing="1.4" fill="#a9bfd8">CYBERSECURITY • COMPUTER SCIENCE</text>
+    <path d="M34 34h22M34 34v22M1166 34h-22M1166 34v22M34 326h22M34 326v-22M1166 326h-22M1166 326v-22" fill="none" stroke="#5ce7ff" stroke-opacity=".7" stroke-width="2"/>
+  </g>
+</svg>
