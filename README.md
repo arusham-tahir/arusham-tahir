@@ -90,17 +90,63 @@ A learning repository for cybersecurity notes, revision, cloud security, identit
 </tr>
 </table>
 
-## 🎓 Certificates & Credentials
+
+## 🎓 Verified Digital Badges
 
 <div align="center">
 
-<a href="https://learn.microsoft.com/en-us/users/arusham-tahir-5871/transcript/7k1wni8nml05xl3?tab=applied-skills-tab"><img src="https://img.shields.io/badge/MICROSOFT-Security_%26_Compliance-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft credential"/></a>
+<table>
+<tr>
+<td align="center" width="50%">
 
-<a href="https://www.credly.com/badges/3b46f271-2cf9-49ed-a179-e8466204fa08"><img src="https://img.shields.io/badge/IBM-Getting_Started_with_Cybersecurity-1261FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM credential"/></a>
+<a href="https://www.credly.com/badges/3b46f271-2cf9-49ed-a179-e8466204fa08">
+<img src="https://www.credly.com/size/340x340/images/3b46f271-2cf9-49ed-a179-e8466204fa08/image.png" width="150" alt="IBM Cybersecurity badge">
+</a>
 
-<a href="https://www.credly.com/badges/bafab564-b18b-42ea-9760-c26474ad8236"><img src="https://img.shields.io/badge/FORTINET-Cybersecurity_3.0-EF3E42?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet credential"/></a>
+**IBM — Getting Started with Cybersecurity**
 
-<a href="https://www.credly.com/badges/31b16d15-2c1a-4f8e-9c8e-5e7880b1e175/public_url"><img src="https://img.shields.io/badge/LINUX_FOUNDATION-Cybersecurity_Essentials-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Foundation credential"/></a>
+[View Credential ↗](https://www.credly.com/badges/3b46f271-2cf9-49ed-a179-e8466204fa08)
+
+</td>
+<td align="center" width="50%">
+
+<a href="https://www.credly.com/badges/bafab564-b18b-42ea-9760-c26474ad8236/public_url">
+<img src="https://www.credly.com/size/340x340/images/bafab564-b18b-42ea-9760-c26474ad8236/image.png" width="150" alt="Fortinet Cybersecurity badge">
+</a>
+
+**Fortinet — Cybersecurity 3.0**
+
+[View Credential ↗](https://www.credly.com/badges/bafab564-b18b-42ea-9760-c26474ad8236/public_url)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<a href="https://www.credly.com/badges/31b16d15-2c1a-4f8e-9c8e-5e7880b1e175/public_url">
+<img src="https://www.credly.com/size/340x340/images/31b16d15-2c1a-4f8e-9c8e-5e7880b1e175/image.png" width="150" alt="Linux Foundation badge">
+</a>
+
+**Linux Foundation — Cybersecurity Essentials**
+
+[View Credential ↗](https://www.credly.com/badges/31b16d15-2c1a-4f8e-9c8e-5e7880b1e175/public_url)
+
+</td>
+<td align="center" width="50%">
+
+<a href="https://learn.microsoft.com/en-us/users/arusham-tahir-5871/transcript/7k1wni8nml05xl3?tab=applied-skills-tab">
+
+<img src="https://img.shields.io/badge/MICROSOFT-SC--900-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft SC-900 learning record">
+
+</a>
+
+**Microsoft — Security, Compliance & Identity**
+
+[View Learning Record ↗](https://learn.microsoft.com/en-us/users/arusham-tahir-5871/transcript/7k1wni8nml05xl3?tab=applied-skills-tab)
+
+</td>
+</tr>
+</table>
 
 </div>
 
