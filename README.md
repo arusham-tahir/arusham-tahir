@@ -94,61 +94,44 @@ A learning repository for cybersecurity notes, revision, cloud security, identit
 ## 🎓 Verified Digital Badges
 
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-<a href="https://www.credly.com/badges/3b46f271-2cf9-49ed-a179-e8466204fa08">
-<img src="https://www.credly.com/size/340x340/images/3b46f271-2cf9-49ed-a179-e8466204fa08/image.png" width="150" alt="IBM Cybersecurity badge">
-</a>
-
-**IBM — Getting Started with Cybersecurity**
-
-[View Credential ↗](https://www.credly.com/badges/3b46f271-2cf9-49ed-a179-e8466204fa08)
-
-</td>
-<td align="center" width="50%">
-
-<a href="https://www.credly.com/badges/bafab564-b18b-42ea-9760-c26474ad8236/public_url">
-<img src="https://www.credly.com/size/340x340/images/bafab564-b18b-42ea-9760-c26474ad8236/image.png" width="150" alt="Fortinet Cybersecurity badge">
-</a>
-
-**Fortinet — Cybersecurity 3.0**
-
-[View Credential ↗](https://www.credly.com/badges/bafab564-b18b-42ea-9760-c26474ad8236/public_url)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-<a href="https://www.credly.com/badges/31b16d15-2c1a-4f8e-9c8e-5e7880b1e175/public_url">
-<img src="https://www.credly.com/size/340x340/images/31b16d15-2c1a-4f8e-9c8e-5e7880b1e175/image.png" width="150" alt="Linux Foundation badge">
-</a>
-
-**Linux Foundation — Cybersecurity Essentials**
-
-[View Credential ↗](https://www.credly.com/badges/31b16d15-2c1a-4f8e-9c8e-5e7880b1e175/public_url)
-
-</td>
-<td align="center" width="50%">
-
-<a href="https://learn.microsoft.com/en-us/users/arusham-tahir-5871/transcript/7k1wni8nml05xl3?tab=applied-skills-tab">
-
-<img src="https://img.shields.io/badge/MICROSOFT-SC--900-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft SC-900 learning record">
-
-</a>
-
-**Microsoft — Security, Compliance & Identity**
-
-[View Learning Record ↗](https://learn.microsoft.com/en-us/users/arusham-tahir-5871/transcript/7k1wni8nml05xl3?tab=applied-skills-tab)
-
-</td>
-</tr>
-</table>
-
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://www.credly.com/badges/3b46f271-2cf9-49ed-a179-e8466204fa08">
+          <img src="./getting-started-with-cybersecurity%20(1).png" width="150" alt="IBM Getting Started with Cybersecurity badge">
+        </a>
+        <br><strong>IBM</strong>
+        <br>Getting Started with Cybersecurity
+        <br><a href="https://www.credly.com/badges/3b46f271-2cf9-49ed-a179-e8466204fa08">View Credential ↗</a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://www.credly.com/badges/bafab564-b18b-42ea-9760-c26474ad8236/public_url">
+          <img src="./getting-started-in-cybersecurity-3-0%20(1).png" width="150" alt="Fortinet Cybersecurity 3.0 badge">
+        </a>
+        <br><strong>Fortinet</strong>
+        <br>Cybersecurity 3.0
+        <br><a href="https://www.credly.com/badges/bafab564-b18b-42ea-9760-c26474ad8236/public_url">View Credential ↗</a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://www.credly.com/badges/31b16d15-2c1a-4f8e-9c8e-5e7880b1e175/public_url">
+          <img src="./lfc108-cybersecurity-essentials%20(1).png" width="150" alt="Linux Foundation Cybersecurity Essentials badge">
+        </a>
+        <br><strong>Linux Foundation</strong>
+        <br>Cybersecurity Essentials
+        <br><a href="https://www.credly.com/badges/31b16d15-2c1a-4f8e-9c8e-5e7880b1e175/public_url">View Credential ↗</a>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/users/arusham-tahir-5871/transcript/7k1wni8nml05xl3?tab=applied-skills-tab">
+    <img src="https://img.shields.io/badge/Microsoft-Security%20%26%20Compliance-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Security and Compliance learning record">
+  </a>
+  <br>Microsoft Security, Compliance & Identity
+  <br><a href="https://learn.microsoft.com/en-us/users/arusham-tahir-5871/transcript/7k1wni8nml05xl3?tab=applied-skills-tab">View Learning Record ↗</a>
+</p>
+
 
 ## 📊 GitHub Command Center
 
