@@ -65,31 +65,39 @@ Hi! I'm **Arusham Tahir**, an ICS graduate exploring the world of cybersecurity,
 
 </div>
 
+
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 Cyber Funnel
-
-A cybersecurity awareness project focused on online privacy, account security, public Wi-Fi safety, and digital risks.
-
-<a href="https://arusham-tahir.github.io/cyberfunnel/"><img src="https://img.shields.io/badge/OPEN_PROJECT-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Open Cyber Funnel"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📘 CyberSecurity MasterLog
-
-A learning repository for cybersecurity notes, revision, cloud security, identity, and security fundamentals.
-
-<a href="https://github.com/arusham-tahir/CyberSecurity-Master-Log"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-7C5CFC?style=for-the-badge&logo=github&logoColor=white" alt="View MasterLog"/></a>
-
-</td>
-</tr>
-</table>
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://arusham-tahir.github.io/cyberfunnel/">
+          <img src="./cyberfunnel-logo.png"
+               width="140"
+               alt="Cyber Funnel logo">
+        </a>
+        <h3>🔐 Cyber Funnel</h3>
+        <p>Cybersecurity awareness, online privacy and digital safety.</p>
+        <a href="https://arusham-tahir.github.io/cyberfunnel/">
+          <img src="https://img.shields.io/badge/OPEN%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://cybertracex.vercel.app/">
+          <img src="./cybertracex-logo.png"
+               width="140"
+               alt="CyberTraceX logo">
+        </a>
+        <h3>🛡️ CyberTraceX</h3>
+        <p>Beginner-friendly cybersecurity guides and interactive learning.</p>
+        <a href="https://cybertracex.vercel.app/">
+          <img src="https://img.shields.io/badge/OPEN%20PROJECT-9B5CFF?style=for-the-badge&logo=vercel&logoColor=white">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🎓 Verified Digital Badges
 
