@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:050816,50:071D35,100:321064&text=ARUSHAM%20TAHIR&fontColor=00E5FF&fontSize=48&fontAlignY=42&desc=ASPIRING%20CYBERSECURITY%20ANALYST&descSize=16&descAlignY=62&stroke=00D9FF&strokeWidth=1" alt="Cybersecurity banner"/>
@@ -20,7 +19,7 @@
 <tr>
 <td width="58%" valign="top">
 
-## 👩‍💻 About Me
+## 👩💻 About Me
 
 Hi! I'm **Arusham Tahir**, an ICS graduate exploring the world of cybersecurity, cloud security, and digital safety.
 
@@ -173,4 +172,3 @@ Hi! I'm **Arusham Tahir**, an ICS graduate exploring the world of cybersecurity,
 <sub>Thanks for visiting my profile! 💜</sub>
 
 </div>
-```
