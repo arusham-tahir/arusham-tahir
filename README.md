@@ -1,4 +1,4 @@
-
+```html
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:050816,50:071D35,100:321064&text=ARUSHAM%20TAHIR&fontColor=00E5FF&fontSize=48&fontAlignY=42&desc=ASPIRING%20CYBERSECURITY%20ANALYST&descSize=16&descAlignY=62&stroke=00D9FF&strokeWidth=1" alt="Cybersecurity banner"/>
@@ -7,10 +7,10 @@
 
 <br/>
 
-<a href="https://arusham-tahir-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-00D9FF?style=flat&logoColor=black" alt="Portfolio"/></a>
-<a href="https://github.com/arusham-tahir"><img src="https://img.shields.io/badge/GITHUB-111827?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/arusham-tahir-202a54429/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.credly.com/users/arusham-tahir"><img src="https://img.shields.io/badge/CREDLY-FF6B35?style=flat&logo=credly&logoColor=white" alt="Credly"/></a>
+<a href="https://arusham-tahir-portfolio.vercel.app/"><img src="./portfolio.svg" alt="Portfolio"/></a>
+<a href="https://github.com/arusham-tahir"><img src="./github.svg" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/arusham-tahir-202a54429/"><img src="./linkedin.svg" alt="LinkedIn"/></a>
+<a href="https://www.credly.com/users/arusham-tahir"><img src="./credly.svg" alt="Credly"/></a>
 
 </div>
 
@@ -37,13 +37,13 @@ Hi! I'm **Arusham Tahir**, an ICS graduate exploring the world of cybersecurity,
 
 ## ⚡ Quick Links
 
-<a href="https://arusham-tahir-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Explore_My_Portfolio-071D35?style=flat&logo=vercel&logoColor=00D9FF" alt="Portfolio"/></a>
+<a href="https://arusham-tahir-portfolio.vercel.app/"><img src="./quick-portfolio.svg" alt="Portfolio"/></a>
 
-<a href="https://github.com/arusham-tahir"><img src="https://img.shields.io/badge/View_My_Repositories-071D35?style=flat&logo=github&logoColor=white" alt="Repositories"/></a>
+<a href="https://github.com/arusham-tahir"><img src="./quick-repositories.svg" alt="Repositories"/></a>
 
-<a href="https://www.credly.com/users/arusham-tahir"><img src="https://img.shields.io/badge/My_Credly_Badges-071D35?style=flat&logo=credly&logoColor=FF6B35" alt="Credly badges"/></a>
+<a href="https://www.credly.com/users/arusham-tahir"><img src="./quick-credly.svg" alt="Credly badges"/></a>
 
-<a href="https://www.linkedin.com/in/arusham-tahir-202a54429/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-071D35?style=flat&logo=linkedin&logoColor=00A4EF" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/arusham-tahir-202a54429/"><img src="./quick-linkedin.svg" alt="LinkedIn"/></a>
 
 </td>
 </tr>
@@ -53,15 +53,15 @@ Hi! I'm **Arusham Tahir**, an ICS graduate exploring the world of cybersecurity,
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Cybersecurity-071D35?style=for-the-badge&logo=hackthebox&logoColor=00D9FF" alt="Cybersecurity"/>
-<img src="https://img.shields.io/badge/Microsoft_Azure-071D35?style=for-the-badge&logo=microsoftazure&logoColor=00A4EF" alt="Azure"/>
-<img src="https://img.shields.io/badge/Linux-071D35?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
-<img src="https://img.shields.io/badge/Networking-071D35?style=for-the-badge&logo=cisco&logoColor=00D9FF" alt="Networking"/>
-<img src="https://img.shields.io/badge/HTML5-071D35?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-071D35?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
-<img src="https://img.shields.io/badge/WordPress-071D35?style=for-the-badge&logo=wordpress&logoColor=21759B" alt="WordPress"/>
-<img src="https://img.shields.io/badge/Git-071D35?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
-<img src="https://img.shields.io/badge/Python-071D35?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
+<img src="./skill-cybersecurity.svg" alt="Cybersecurity"/>
+<img src="./skill-azure.svg" alt="Azure"/>
+<img src="./skill-linux.svg" alt="Linux"/>
+<img src="./skill-networking.svg" alt="Networking"/>
+<img src="./skill-html5.svg" alt="HTML5"/>
+<img src="./skill-css3.svg" alt="CSS3"/>
+<img src="./skill-wordpress.svg" alt="WordPress"/>
+<img src="./skill-git.svg" alt="Git"/>
+<img src="./skill-python.svg" alt="Python"/>
 
 </div>
 
@@ -80,7 +80,7 @@ Hi! I'm **Arusham Tahir**, an ICS graduate exploring the world of cybersecurity,
         <h3>🔐 Cyber Funnel</h3>
         <p>Cybersecurity awareness, online privacy and digital safety.</p>
         <a href="https://arusham-tahir.github.io/cyberfunnel/">
-          <img src="https://img.shields.io/badge/OPEN%20PROJECT-00D9FF?style=flat&logo=github&logoColor=black">
+          <img src="./open-project-cyan.svg" alt="Open Cyber Funnel project">
         </a>
       </td>
       <td align="center" width="50%">
@@ -92,7 +92,7 @@ Hi! I'm **Arusham Tahir**, an ICS graduate exploring the world of cybersecurity,
         <h3>🛡️ CyberTraceX</h3>
         <p>Beginner-friendly cybersecurity guides and interactive learning.</p>
         <a href="https://cybertracex.vercel.app/">
-          <img src="https://img.shields.io/badge/OPEN%20PROJECT-9B5CFF?style=flat&logo=vercel&logoColor=white">
+          <img src="./open-project-purple.svg" alt="Open CyberTraceX project">
         </a>
       </td>
     </tr>
@@ -136,7 +136,7 @@ Hi! I'm **Arusham Tahir**, an ICS graduate exploring the world of cybersecurity,
 
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/users/arusham-tahir-5871/transcript/7k1wni8nml05xl3?tab=applied-skills-tab">
-    <img src="https://img.shields.io/badge/Microsoft-Security%20%26%20Compliance-00A4EF?style=flat&logo=microsoft&logoColor=white" alt="Microsoft Security and Compliance learning record">
+    <img src="./microsoft-learning.svg" alt="Microsoft Security and Compliance learning record">
   </a>
   <br>Microsoft Security, Compliance & Identity
   <br><a href="https://learn.microsoft.com/en-us/users/arusham-tahir-5871/transcript/7k1wni8nml05xl3?tab=applied-skills-tab">View Learning Record ↗</a>
@@ -160,9 +160,9 @@ Hi! I'm **Arusham Tahir**, an ICS graduate exploring the world of cybersecurity,
 
 **Interested in cybersecurity, technology, or learning together? Let's connect!**
 
-<a href="https://arusham-tahir-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=flat&logo=vercel&logoColor=black" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/arusham-tahir-202a54429/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/arusham-tahir"><img src="https://img.shields.io/badge/GITHUB-111827?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://arusham-tahir-portfolio.vercel.app/"><img src="./footer-portfolio.svg" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/arusham-tahir-202a54429/"><img src="./footer-linkedin.svg" alt="LinkedIn"/></a>
+<a href="https://github.com/arusham-tahir"><img src="./footer-github.svg" alt="GitHub"/></a>
 
 <br/><br/>
 
@@ -173,3 +173,4 @@ Hi! I'm **Arusham Tahir**, an ICS graduate exploring the world of cybersecurity,
 <sub>Thanks for visiting my profile! 💜</sub>
 
 </div>
+```
