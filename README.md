@@ -1,39 +1,71 @@
 
 <div align="center">
 
-<img src="./cyber-command-center.svg" alt="Arusham Tahir — Cybersecurity Command Center" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:050816,50:071D35,100:321064&text=ARUSHAM%20TAHIR&fontColor=00E5FF&fontSize=48&fontAlignY=42&desc=ASPIRING%20CYBERSECURITY%20ANALYST&descSize=16&descAlignY=62&stroke=00D9FF&strokeWidth=1" alt="Cybersecurity banner"/>
 
-<a href="https://arusham-tahir-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00D9FF?style=flat&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://github.com/arusham-tahir"><img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-151B2B?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/arusham-tahir-202a54429/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.credly.com/users/arusham-tahir"><img src="https://img.shields.io/badge/Credly-Verified%20Badges-FF6B35?style=flat&logo=credly&logoColor=white" alt="Credly"></a>
-<a href="mailto:arushamtahir@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-7C5CFC?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=650&lines=LEARN+%E2%80%A2+BUILD+%E2%80%A2+SECURE+%E2%80%A2+GROW;Exploring+Cybersecurity+%26+Cloud;Building+Projects+That+Matter" alt="Typing animation"/>
 
-<br>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&width=750&lines=Aspiring+Cybersecurity+Analyst;Learning+Cloud+Security+%26+Identity;Building+Cyber+Awareness+Projects;Documenting+the+Journey%2C+One+Step+at+a+Time" alt="Typing animation">
+<a href="https://arusham-tahir-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-00D9FF?style=for-the-badge&logoColor=black" alt="Portfolio"/></a>
+<a href="https://github.com/arusham-tahir"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/arusham-tahir-202a54429/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.credly.com/users/arusham-tahir"><img src="https://img.shields.io/badge/CREDLY-FF6B35?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
 
 </div>
 
 ---
 
-## `whoami` — A little about me
+<table>
+<tr>
+<td width="58%" valign="top">
 
-Hi, I'm **Arusham Tahir** — an ICS graduate exploring the intersection of **cybersecurity, computer science, cloud security, and digital safety**.
+## 👩‍💻 About Me
 
-I enjoy turning what I learn into clear notes, practical projects, and beginner-friendly resources. My focus is on building strong foundations, documenting progress, and making online safety easier to understand.
+Hi! I'm **Arusham Tahir**, an ICS graduate exploring the world of cybersecurity, cloud security, and digital safety.
 
-- 🛡️ Exploring cybersecurity, identity, compliance, and network defense
-- ☁️ Learning Microsoft security and cloud concepts
-- 🧠 Maintaining structured revision notes in my **CyberSecurity MasterLog**
-- 🌐 Building **Cyber Funnel**, a beginner-friendly cybersecurity awareness platform
-- 📚 Learning in public and improving one project at a time
+- 🛡️ Learning cybersecurity fundamentals
+- ☁️ Exploring Microsoft security and cloud concepts
+- 🔐 Interested in identity and access management
+- 📚 Documenting my learning journey
+- 🌐 Building projects to promote online safety
 
-> `Mission: learn responsibly • build useful things • help people stay safer online`
+> **My mission:** Learn responsibly. Build useful things. Help people stay safer online.
 
----
+</td>
+<td width="42%" valign="top">
 
-## 🧭 Featured Projects
+## ⚡ Quick Links
+
+<a href="https://arusham-tahir-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Explore_My_Portfolio-071D35?style=for-the-badge&logo=vercel&logoColor=00D9FF" alt="Portfolio"/></a>
+
+<a href="https://github.com/arusham-tahir"><img src="https://img.shields.io/badge/View_My_Repositories-071D35?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+
+<a href="https://www.credly.com/users/arusham-tahir"><img src="https://img.shields.io/badge/My_Credly_Badges-071D35?style=for-the-badge&logo=credly&logoColor=FF6B35" alt="Credly badges"/></a>
+
+<a href="https://www.linkedin.com/in/arusham-tahir-202a54429/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-071D35?style=for-the-badge&logo=linkedin&logoColor=00A4EF" alt="LinkedIn"/></a>
+
+</td>
+</tr>
+</table>
+
+## 🧰 Skills & Technologies
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Cybersecurity-071D35?style=for-the-badge&logo=hackthebox&logoColor=00D9FF" alt="Cybersecurity"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-071D35?style=for-the-badge&logo=microsoftazure&logoColor=00A4EF" alt="Azure"/>
+<img src="https://img.shields.io/badge/Linux-071D35?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
+<img src="https://img.shields.io/badge/Networking-071D35?style=for-the-badge&logo=cisco&logoColor=00D9FF" alt="Networking"/>
+<img src="https://img.shields.io/badge/HTML5-071D35?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-071D35?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
+<img src="https://img.shields.io/badge/WordPress-071D35?style=for-the-badge&logo=wordpress&logoColor=21759B" alt="WordPress"/>
+<img src="https://img.shields.io/badge/Git-071D35?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+<img src="https://img.shields.io/badge/Python-071D35?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
+
+</div>
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -41,158 +73,65 @@ I enjoy turning what I learn into clear notes, practical projects, and beginner-
 
 ### 🔐 Cyber Funnel
 
-**Cybersecurity Awareness Platform**
+A cybersecurity awareness project focused on online privacy, account security, public Wi-Fi safety, and digital risks.
 
-A beginner-friendly collection of practical guides on phone privacy, public Wi-Fi safety, account security, and common online risks.
-
-<p align="left">
-<a href="https://arusham-tahir.github.io/cyberfunnel/"><img src="https://img.shields.io/badge/OPEN%20PROJECT-00D9FF?style=flat&logo=googlechrome&logoColor=101828" alt="Open Cyber Funnel"></a>
-</p>
+<a href="https://arusham-tahir.github.io/cyberfunnel/"><img src="https://img.shields.io/badge/OPEN_PROJECT-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Open Cyber Funnel"/></a>
 
 </td>
-<td width="50%" valign="top">
-
-### 🕵️ CyberTraceX
-
-**Cybersecurity Project**
-
-Explore my CyberTraceX project and its features.
-
-<p align="left">
-<a href="https://cybertracex.vercel.app/"><img src="https://img.shields.io/badge/OPEN%20PROJECT-7C5CFC?style=flat&logo=vercel&logoColor=white" alt="Open CyberTraceX"></a>
-</p>
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📘 CyberSecurity MasterLog
 
-**Study Notes & Revision Log**
+A learning repository for cybersecurity notes, revision, cloud security, identity, and security fundamentals.
 
-A self-maintained repository of structured notes on Microsoft SC-900 topics, Fortinet security learning paths, cloud compliance, identity, and infrastructure controls.
-
-<p align="left">
-<a href="https://github.com/arusham-tahir/CyberSecurity-Master-Log"><img src="https://img.shields.io/badge/EXPLORE%20REPO-7C5CFC?style=flat&logo=github&logoColor=white" alt="Explore MasterLog"></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Portfolio
-
-**Projects & Learning Journey**
-
-Visit my portfolio to explore my work, projects, and cybersecurity learning journey.
-
-<p align="left">
-<a href="https://arusham-tahir-portfolio.vercel.app/"><img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-00D9FF?style=flat&logo=vercel&logoColor=101828" alt="Visit Portfolio"></a>
-</p>
+<a href="https://github.com/arusham-tahir/CyberSecurity-Master-Log"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-7C5CFC?style=for-the-badge&logo=github&logoColor=white" alt="View MasterLog"/></a>
 
 </td>
 </tr>
 </table>
 
----
-
-## 🎓 Certifications & Learning Credentials
-
-Click a badge to view its public credential or learning record.
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**Microsoft**
-
-### Security, Compliance & Identity (SC-900)
-
-<a href="https://learn.microsoft.com/en-us/users/arusham-tahir-5871/transcript/7k1wni8nml05xl3?tab=applied-skills-tab"><img src="https://img.shields.io/badge/VIEW%20LEARNING%20RECORD-00A4EF?style=flat&logo=microsoft&logoColor=white" alt="Microsoft Learning Record"></a>
-
-</td>
-<td align="center" width="50%">
-
-**Linux Foundation**
-
-### Cybersecurity Essentials (LFC108)
-
-<a href="https://www.credly.com/badges/31b16d15-2c1a-4f8e-9c8e-5e7880b1e175/public_url"><img src="https://img.shields.io/badge/VIEW%20CREDLY%20BADGE-FF6B35?style=flat&logo=credly&logoColor=white" alt="Linux Foundation Badge"></a>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-**IBM**
-
-### Getting Started with Cybersecurity
-
-<a href="https://www.credly.com/badges/3b46f271-2cf9-49ed-a179-e8466204fa08"><img src="https://img.shields.io/badge/VIEW%20CREDLY%20BADGE-1261FE?style=flat&logo=ibm&logoColor=white" alt="IBM Badge"></a>
-
-</td>
-<td align="center" width="50%">
-
-**Fortinet**
-
-### Getting Started in Cybersecurity 3.0
-
-<a href="https://www.credly.com/badges/bafab564-b18b-42ea-9760-c26474ad8236/public_url"><img src="https://img.shields.io/badge/VIEW%20CREDLY%20BADGE-EF3E42?style=flat&logo=fortinet&logoColor=white" alt="Fortinet Badge"></a>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧰 Current Focus & Tools
-
-<p align="center">
-<img src="https://img.shields.io/badge/Cybersecurity-0B1220?style=flat&logo=hackthebox&logoColor=00D9FF" alt="Cybersecurity">
-<img src="https://img.shields.io/badge/Microsoft_Azure-0B1220?style=flat&logo=microsoftazure&logoColor=00A4EF" alt="Microsoft Azure">
-<img src="https://img.shields.io/badge/Identity_%26_Access-0B1220?style=flat&logo=microsoftentra&logoColor=7C5CFC" alt="Identity and Access">
-<img src="https://img.shields.io/badge/Linux-0B1220?style=flat&logo=linux&logoColor=FCC624" alt="Linux">
-<img src="https://img.shields.io/badge/Network_Security-0B1220?style=flat&logo=wireshark&logoColor=00D9FF" alt="Network Security">
-<img src="https://img.shields.io/badge/WordPress-0B1220?style=flat&logo=wordpress&logoColor=21759B" alt="WordPress">
-<img src="https://img.shields.io/badge/Web_Development-0B1220?style=flat&logo=html5&logoColor=E34F26" alt="Web Development">
-<img src="https://img.shields.io/badge/Documentation-0B1220?style=flat&logo=markdown&logoColor=white" alt="Documentation">
-</p>
-
----
-
-## 📊 GitHub Dashboard
+## 🎓 Certificates & Credentials
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=arusham-tahir&show_icons=true&hide_border=true&bg_color=0B1220&title_color=00D9FF&icon_color=7C5CFC&text_color=E6EDF3&rank_icon=github" alt="GitHub Statistics">
+<a href="https://learn.microsoft.com/en-us/users/arusham-tahir-5871/transcript/7k1wni8nml05xl3?tab=applied-skills-tab"><img src="https://img.shields.io/badge/MICROSOFT-Security_%26_Compliance-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft credential"/></a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arusham-tahir&layout=compact&hide_border=true&bg_color=0B1220&title_color=00D9FF&text_color=E6EDF3" alt="Top Languages">
+<a href="https://www.credly.com/badges/3b46f271-2cf9-49ed-a179-e8466204fa08"><img src="https://img.shields.io/badge/IBM-Getting_Started_with_Cybersecurity-1261FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM credential"/></a>
 
-<br>
+<a href="https://www.credly.com/badges/bafab564-b18b-42ea-9760-c26474ad8236"><img src="https://img.shields.io/badge/FORTINET-Cybersecurity_3.0-EF3E42?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet credential"/></a>
 
-<img src="https://streak-stats.demolab.com?user=arusham-tahir&hide_border=true&background=0B1220&ring=7C5CFC&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=9AA4B2" alt="GitHub Contribution Streak">
+<a href="https://www.credly.com/badges/31b16d15-2c1a-4f8e-9c8e-5e7880b1e175/public_url"><img src="https://img.shields.io/badge/LINUX_FOUNDATION-Cybersecurity_Essentials-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Foundation credential"/></a>
 
 </div>
 
-<sub>Stats are generated by third-party services and may occasionally be unavailable. Language cards reflect repository code, not a complete measure of proficiency.</sub>
-
----
-
-## 🤝 Let's Connect
-
-I'm happy to connect with fellow learners, developers, and people interested in cybersecurity awareness.
-
-<p align="center">
-<a href="https://arusham-tahir-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=flat&logo=vercel&logoColor=101828" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/arusham-tahir-202a54429/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/arusham-tahir"><img src="https://img.shields.io/badge/GitHub-151B2B?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="mailto:arushamtahir@gmail.com"><img src="https://img.shields.io/badge/Email-7C5CFC?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+## 📊 GitHub Command Center
 
 <div align="center">
 
-**`[ LEARN ]` · `[ DOCUMENT ]` · `[ BUILD ]` · `[ SHARE ]`**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=arusham-tahir&show_icons=true&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=7C5CFC&text_color=E6EDF3" alt="GitHub statistics"/>
 
-<sub>Designed with curiosity and a commitment to responsible cybersecurity learning.</sub>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arusham-tahir&layout=compact&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=E6EDF3" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=arusham-tahir&hide_border=true&background=050816&ring=7C5CFC&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=9AA4B2" alt="Contribution streak"/>
+
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+**Interested in cybersecurity, technology, or learning together? Let's connect!**
+
+<a href="https://arusham-tahir-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/arusham-tahir-202a54429/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/arusham-tahir"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D9FF,50:7C5CFC,100:00D9FF&section=footer" width="100%" alt="Neon divider"/>
+
+**`LEARN` · `BUILD` · `SECURE` · `GROW`**
+
+<sub>Thanks for visiting my profile! 💜</sub>
 
 </div>
