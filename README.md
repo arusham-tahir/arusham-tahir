@@ -65,44 +65,82 @@ Hi! I'm **Arusham Tahir**, an ICS graduate exploring the world of cybersecurity,
 
 </div>
 
+
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://arusham-tahir.github.io/cyberfunnel/">
+          <img src="./cyberfunnel-logo.png"
+               width="140"
+               alt="Cyber Funnel logo">
+        </a>
+        <h3>🔐 Cyber Funnel</h3>
+        <p>Cybersecurity awareness, online privacy and digital safety.</p>
+        <a href="https://arusham-tahir.github.io/cyberfunnel/">
+          <img src="https://img.shields.io/badge/OPEN%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://cybertracex.vercel.app/">
+          <img src="./cybertracex-logo.png"
+               width="140"
+               alt="CyberTraceX logo">
+        </a>
+        <h3>🛡️ CyberTraceX</h3>
+        <p>Beginner-friendly cybersecurity guides and interactive learning.</p>
+        <a href="https://cybertracex.vercel.app/">
+          <img src="https://img.shields.io/badge/OPEN%20PROJECT-9B5CFF?style=for-the-badge&logo=vercel&logoColor=white">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🔐 Cyber Funnel
 
-A cybersecurity awareness project focused on online privacy, account security, public Wi-Fi safety, and digital risks.
 
-<a href="https://arusham-tahir.github.io/cyberfunnel/"><img src="https://img.shields.io/badge/OPEN_PROJECT-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Open Cyber Funnel"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📘 CyberSecurity MasterLog
-
-A learning repository for cybersecurity notes, revision, cloud security, identity, and security fundamentals.
-
-<a href="https://github.com/arusham-tahir/CyberSecurity-Master-Log"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-7C5CFC?style=for-the-badge&logo=github&logoColor=white" alt="View MasterLog"/></a>
-
-</td>
-</tr>
-</table>
-
-## 🎓 Certificates & Credentials
+## 🎓 Verified Digital Badges
 
 <div align="center">
-
-<a href="https://learn.microsoft.com/en-us/users/arusham-tahir-5871/transcript/7k1wni8nml05xl3?tab=applied-skills-tab"><img src="https://img.shields.io/badge/MICROSOFT-Security_%26_Compliance-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft credential"/></a>
-
-<a href="https://www.credly.com/badges/3b46f271-2cf9-49ed-a179-e8466204fa08"><img src="https://img.shields.io/badge/IBM-Getting_Started_with_Cybersecurity-1261FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM credential"/></a>
-
-<a href="https://www.credly.com/badges/bafab564-b18b-42ea-9760-c26474ad8236"><img src="https://img.shields.io/badge/FORTINET-Cybersecurity_3.0-EF3E42?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet credential"/></a>
-
-<a href="https://www.credly.com/badges/31b16d15-2c1a-4f8e-9c8e-5e7880b1e175/public_url"><img src="https://img.shields.io/badge/LINUX_FOUNDATION-Cybersecurity_Essentials-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Foundation credential"/></a>
-
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://www.credly.com/badges/3b46f271-2cf9-49ed-a179-e8466204fa08">
+          <img src="./getting-started-with-cybersecurity%20(1).png" width="150" alt="IBM Getting Started with Cybersecurity badge">
+        </a>
+        <br><strong>IBM</strong>
+        <br>Getting Started with Cybersecurity
+        <br><a href="https://www.credly.com/badges/3b46f271-2cf9-49ed-a179-e8466204fa08">View Credential ↗</a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://www.credly.com/badges/bafab564-b18b-42ea-9760-c26474ad8236/public_url">
+          <img src="./getting-started-in-cybersecurity-3-0%20(1).png" width="150" alt="Fortinet Cybersecurity 3.0 badge">
+        </a>
+        <br><strong>Fortinet</strong>
+        <br>Cybersecurity 3.0
+        <br><a href="https://www.credly.com/badges/bafab564-b18b-42ea-9760-c26474ad8236/public_url">View Credential ↗</a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://www.credly.com/badges/31b16d15-2c1a-4f8e-9c8e-5e7880b1e175/public_url">
+          <img src="./lfc108-cybersecurity-essentials%20(1).png" width="150" alt="Linux Foundation Cybersecurity Essentials badge">
+        </a>
+        <br><strong>Linux Foundation</strong>
+        <br>Cybersecurity Essentials
+        <br><a href="https://www.credly.com/badges/31b16d15-2c1a-4f8e-9c8e-5e7880b1e175/public_url">View Credential ↗</a>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/users/arusham-tahir-5871/transcript/7k1wni8nml05xl3?tab=applied-skills-tab">
+    <img src="https://img.shields.io/badge/Microsoft-Security%20%26%20Compliance-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Security and Compliance learning record">
+  </a>
+  <br>Microsoft Security, Compliance & Identity
+  <br><a href="https://learn.microsoft.com/en-us/users/arusham-tahir-5871/transcript/7k1wni8nml05xl3?tab=applied-skills-tab">View Learning Record ↗</a>
+</p>
 
 ## 📊 GitHub Command Center
 
