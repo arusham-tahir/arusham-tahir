@@ -7,10 +7,10 @@
 
 <br/>
 
-<a href="https://arusham-tahir-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-00D9FF?style=for-the-badge&logoColor=black" alt="Portfolio"/></a>
-<a href="https://github.com/arusham-tahir"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/arusham-tahir-202a54429/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.credly.com/users/arusham-tahir"><img src="https://img.shields.io/badge/CREDLY-FF6B35?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
+<a href="https://arusham-tahir-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-00D9FF?style=flat&logoColor=black" alt="Portfolio"/></a>
+<a href="https://github.com/arusham-tahir"><img src="https://img.shields.io/badge/GITHUB-111827?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/arusham-tahir-202a54429/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.credly.com/users/arusham-tahir"><img src="https://img.shields.io/badge/CREDLY-FF6B35?style=flat&logo=credly&logoColor=white" alt="Credly"/></a>
 
 </div>
 
@@ -37,13 +37,13 @@ Hi! I'm **Arusham Tahir**, an ICS graduate exploring the world of cybersecurity,
 
 ## ⚡ Quick Links
 
-<a href="https://arusham-tahir-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Explore_My_Portfolio-071D35?style=for-the-badge&logo=vercel&logoColor=00D9FF" alt="Portfolio"/></a>
+<a href="https://arusham-tahir-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Explore_My_Portfolio-071D35?style=flat&logo=vercel&logoColor=00D9FF" alt="Portfolio"/></a>
 
-<a href="https://github.com/arusham-tahir"><img src="https://img.shields.io/badge/View_My_Repositories-071D35?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+<a href="https://github.com/arusham-tahir"><img src="https://img.shields.io/badge/View_My_Repositories-071D35?style=flat&logo=github&logoColor=white" alt="Repositories"/></a>
 
-<a href="https://www.credly.com/users/arusham-tahir"><img src="https://img.shields.io/badge/My_Credly_Badges-071D35?style=for-the-badge&logo=credly&logoColor=FF6B35" alt="Credly badges"/></a>
+<a href="https://www.credly.com/users/arusham-tahir"><img src="https://img.shields.io/badge/My_Credly_Badges-071D35?style=flat&logo=credly&logoColor=FF6B35" alt="Credly badges"/></a>
 
-<a href="https://www.linkedin.com/in/arusham-tahir-202a54429/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-071D35?style=for-the-badge&logo=linkedin&logoColor=00A4EF" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/arusham-tahir-202a54429/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-071D35?style=flat&logo=linkedin&logoColor=00A4EF" alt="LinkedIn"/></a>
 
 </td>
 </tr>
@@ -80,7 +80,7 @@ Hi! I'm **Arusham Tahir**, an ICS graduate exploring the world of cybersecurity,
         <h3>🔐 Cyber Funnel</h3>
         <p>Cybersecurity awareness, online privacy and digital safety.</p>
         <a href="https://arusham-tahir.github.io/cyberfunnel/">
-          <img src="https://img.shields.io/badge/OPEN%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black">
+          <img src="https://img.shields.io/badge/OPEN%20PROJECT-00D9FF?style=flat&logo=github&logoColor=black">
         </a>
       </td>
       <td align="center" width="50%">
@@ -92,7 +92,7 @@ Hi! I'm **Arusham Tahir**, an ICS graduate exploring the world of cybersecurity,
         <h3>🛡️ CyberTraceX</h3>
         <p>Beginner-friendly cybersecurity guides and interactive learning.</p>
         <a href="https://cybertracex.vercel.app/">
-          <img src="https://img.shields.io/badge/OPEN%20PROJECT-9B5CFF?style=for-the-badge&logo=vercel&logoColor=white">
+          <img src="https://img.shields.io/badge/OPEN%20PROJECT-9B5CFF?style=flat&logo=vercel&logoColor=white">
         </a>
       </td>
     </tr>
@@ -136,7 +136,7 @@ Hi! I'm **Arusham Tahir**, an ICS graduate exploring the world of cybersecurity,
 
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/users/arusham-tahir-5871/transcript/7k1wni8nml05xl3?tab=applied-skills-tab">
-    <img src="https://img.shields.io/badge/Microsoft-Security%20%26%20Compliance-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Security and Compliance learning record">
+    <img src="https://img.shields.io/badge/Microsoft-Security%20%26%20Compliance-00A4EF?style=flat&logo=microsoft&logoColor=white" alt="Microsoft Security and Compliance learning record">
   </a>
   <br>Microsoft Security, Compliance & Identity
   <br><a href="https://learn.microsoft.com/en-us/users/arusham-tahir-5871/transcript/7k1wni8nml05xl3?tab=applied-skills-tab">View Learning Record ↗</a>
@@ -160,9 +160,9 @@ Hi! I'm **Arusham Tahir**, an ICS graduate exploring the world of cybersecurity,
 
 **Interested in cybersecurity, technology, or learning together? Let's connect!**
 
-<a href="https://arusham-tahir-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/arusham-tahir-202a54429/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/arusham-tahir"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://arusham-tahir-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=flat&logo=vercel&logoColor=black" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/arusham-tahir-202a54429/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/arusham-tahir"><img src="https://img.shields.io/badge/GITHUB-111827?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
