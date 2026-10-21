@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:050816,50:071D35,100:321064&text=ARUSHAM%20TAHIR&fontColor=00E5FF&fontSize=48&fontAlignY=42&desc=ASPIRING%20CYBERSECURITY%20ANALYST&descSize=16&descAlignY=62&stroke=00D9FF&strokeWidth=1" alt="Cybersecurity banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=650&lines=LEARN+%E2%80%A2+BUILD+%E2%80%A2+SECURE+%E2%80%A2+GROW;Exploring+Cybersecurity+%26+Cloud;Building+Projects+That+Matter" alt="Typing animation"/>
